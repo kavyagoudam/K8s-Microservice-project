@@ -7,7 +7,7 @@ PS: This Repo Can be used for learning Purpose only
 Kubernetes micro service project involves deploying a complete microservice based application on a kubernetes cluster. You will learn how to containerise a applications. create kuberentes, including Networking Scaling, Monitoring and security.
 
 ## Project Flow
-    [link text](https://miro.com/app/board/uXjVKrR_Vmw=/?share_link_id=376955101126)
+[Project flow](https://miro.com/app/board/uXjVKrR_Vmw=/?share_link_id=376955101126)
 
 ## Project Breakdown.
 
